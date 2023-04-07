@@ -1,8 +1,10 @@
-.header-background{
+header, footer{
 background-color: #0F977A;
 }
 
 
 h1{
 text-align: center;
+font-family: "fantasy", cursive, bold;
+font-size: 30px;
 }
