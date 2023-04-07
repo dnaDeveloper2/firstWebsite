@@ -1,4 +1,4 @@
-/* Sets background color, border color and thickness, and positioning for header and footer*/
+/* Sets background image (flag), border color and thickness, and positioning for header and footer*/
 header, footer{
 background: url(images/flag.jpeg);
 padding: 0px;
